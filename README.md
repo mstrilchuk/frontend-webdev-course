@@ -1,2 +1,2 @@
 # frontend-webdev-course
-Mariia Strilchuk
+Mariia Strilchuk  
